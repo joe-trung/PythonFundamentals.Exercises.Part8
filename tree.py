@@ -1,7 +1,7 @@
 import os
 
 
-def print_file(path_name):
+def make_text(path_name):
     for file_name in os.listdir(path_name):
         path = os.path.join(path_name, file_name)
         return path
@@ -13,4 +13,4 @@ def writing_file(text):
 
 
 if __name__ == '__main__':
-    writing_file(print_file('.'))
+    writing_file(make_text(os.getcwd()))
