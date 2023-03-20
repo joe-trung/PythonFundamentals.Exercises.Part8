@@ -2,9 +2,10 @@ import os
 
 
 def make_text(path_name):
+    path = ""
     for file_name in os.listdir(path_name):
-        path = os.path.join(path_name, file_name)
-        return path
+        path += os.path.join(path_name, file_name) + "\n"
+    return path
 
 
 def writing_file(text):

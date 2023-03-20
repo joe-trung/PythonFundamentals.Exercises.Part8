@@ -1,1 +1,10 @@
 /Users/trung/Python Projects/PythonFundamentals.Exercises.Part8/test_file_reader.py
+/Users/trung/Python Projects/PythonFundamentals.Exercises.Part8/tree.py
+/Users/trung/Python Projects/PythonFundamentals.Exercises.Part8/file_reader.py
+/Users/trung/Python Projects/PythonFundamentals.Exercises.Part8/my_awesome_file.txt
+/Users/trung/Python Projects/PythonFundamentals.Exercises.Part8/README.md
+/Users/trung/Python Projects/PythonFundamentals.Exercises.Part8/.gitignore
+/Users/trung/Python Projects/PythonFundamentals.Exercises.Part8/.git
+/Users/trung/Python Projects/PythonFundamentals.Exercises.Part8/directory.txt
+/Users/trung/Python Projects/PythonFundamentals.Exercises.Part8/locked_out_file.txt
+/Users/trung/Python Projects/PythonFundamentals.Exercises.Part8/.idea
